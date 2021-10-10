@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on decentralized computations on lage-scale decentralized systems 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=jpantao&show_icons=true&count_private=true" />
 </a>
