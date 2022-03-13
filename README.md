@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning about CRDT-based databases, and Persistent Memory (PM).
-- ⚡ Random fact: If you eliminated 100% of your emissions for the rest of your life, 
-  you would save one second’s worth of emissions from the global energy sector ([sources](https://sites.google.com/view/sources-climate-how/)). 
+
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=jpantao&show_icons=true&count_private=true" />
