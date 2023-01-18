@@ -17,9 +17,4 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on performance optimizations based on software prefetching in heterogeneous memory systems 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=jpantao&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpantao&hide=html,c%2B%2B&count_private=true&layout=compact" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpantao)](https://github.com/anuraghazra/github-readme-stats)
