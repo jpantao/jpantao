@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 🔭 I’m currently working on performance optimizations based on software prefetching in heterogeneous memory systems 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpantao)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpantao)](https://github.com/anuraghazra/github-readme-stats)
