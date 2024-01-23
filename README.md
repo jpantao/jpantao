@@ -1,6 +1,6 @@
 ### Hello Friend 🤖
 
-**A computer science major with a passion for cybersecurity.**
+**A Computer Science major with a passion for cybersecurity.**
 
 Cloud Security Engineer at [Ten Twenty One](https://tentwentyone.io/en/); <br/>
 Cybersecurity Associate Consultant at [Dark Clarity](https://darkclarity.net/).
