@@ -2,8 +2,8 @@
 
 **A computer science major with a passion for cybersecurity.**
 
-Cloud Security Engineer at [Ten Twenty One](https://tentwentyone.io/en/).
-
+Cloud Security Engineer at [Ten Twenty One](https://tentwentyone.io/en/);
+Cybersecurity Associate Consultant at [Dark Clarity](https://darkclarity.net/).
 
 
 <!--
