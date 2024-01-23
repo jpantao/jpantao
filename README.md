@@ -8,6 +8,8 @@ Cybersecurity Associate Consultant at [Dark Clarity](https://darkclarity.net/). 
 
 - ⚙️ I use daily: `.py`, `.sh`, `.tf`
 - 💬 Ping me about **CTFs**, **cybersecurity challenges**, and **Linux**
+- 🐕 Currently learning how to train dogs
+- 📖 Reading **Dune**
 
 ---
 
