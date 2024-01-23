@@ -30,7 +30,7 @@ Cybersecurity Associate Consultant at [Dark Clarity](https://darkclarity.net/).
   </p>
 </p>
 
----
+
 
 <!--
 
