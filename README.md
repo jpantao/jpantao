@@ -1,3 +1,10 @@
+### Hello Friend 🤖
+
+**A computer science major with a passion for cybersecurity.**
+
+Cloud Security Engineer at [Tentwentyone](https://tentwentyone.io/en/).
+
+
 
 <!--
 
