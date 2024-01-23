@@ -4,7 +4,10 @@
 **A Computer Science major with a passion for cybersecurity.**
 
 Cloud Security Engineer at [Ten Twenty One](https://tentwentyone.io/en/); <br/>
-Cybersecurity Associate Consultant at [Dark Clarity](https://darkclarity.net/).
+Cybersecurity Associate Consultant at [Dark Clarity](https://darkclarity.net/). <br/>
+
+- ⚙️ I use daily: `.py`, `.sh`, `.tf`
+- 💬 Ping me about **CTFs**, **cybersecurity challenges**, and **Linux**
 
 ---
 
