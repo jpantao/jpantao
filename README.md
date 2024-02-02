@@ -17,7 +17,7 @@ Cybersecurity Associate Consultant at [Dark Clarity](https://darkclarity.net/). 
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=jpantao&show_icons=true&theme=transparent"/>
   <p>
     <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Vim-%23019733?style=flat-square&logo=vim&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Vim-%23019733?style=flat-square&logo=vim&logoColor=black">
     <img alt="Static Badge" src="https://img.shields.io/badge/JetBrains-%23000000?style=flat-square&logo=jetbrains&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white">
