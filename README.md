@@ -7,8 +7,8 @@ Cloud Security Engineer at [Ten Twenty One](https://tentwentyone.io/en/); <br/>
 
 - ⚙️ I use daily: `.py`, `.sh`, `.tf`
 - 💬 Ping me about **CTFs**, **cybersecurity challenges**, and **Linux**
-- 🐕 Currently learning how to train dogs
-- 📖 Reading **Dune** by **Frank Herbert**
+- 🏍️ Currrently learning how to ride motorcycles
+- 📖 Reading **Dune Messiah** by **Frank Herbert**
 
 ---
 
